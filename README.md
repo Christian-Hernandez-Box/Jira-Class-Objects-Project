@@ -1,5 +1,7 @@
 # Jira-Class-Objects-Project
-For this project, we want you to create a fully functional system that involves multiple classes and what better way than to try to replicate I get to use day in and out in my current role as in IT engineer. With this program you can build different Servicedesk users each with its own access level/functions. Check out my initial build out of the program any feedback is highly appreciated.
+
+For this project, we want you to create a fully functional system that involves multiple classes, and what better way to do that than to try to replicate what I get to use day in and day out in my current role as an IT engineer. With this program, you can create different Service Desk users, each with their own access level and functions. Check out my initial build of the program; any feedback is highly appreciated.
+
 ```
 #This Program Is For The Codecademy Project (Object Oriented Programming)
 import time
