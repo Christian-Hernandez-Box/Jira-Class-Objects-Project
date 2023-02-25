@@ -83,6 +83,9 @@ time.sleep(3)
 ticket_creation = account_creation.create_ticket()
 print(ticket_creation)
 ```
+
+Output Example:
+
 ```
 Welcome to the Servicedesk Portal. Before you can begin making tickets, let's create an account. Depending on your role, you can receive access to one of these types of accounts: 
 
